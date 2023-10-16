@@ -1,0 +1,10 @@
+#Please use the main menu items under the "text"
+
+- text: Home
+  url: /
+- text: Approach
+  url: approach
+- text: Companies
+  url: companies
+- text: Contact
+  url: contact
