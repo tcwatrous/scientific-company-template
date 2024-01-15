@@ -2,9 +2,9 @@
 
 - text: Home
   url: /
-- text: Approach
-  url: approach
-- text: Companies
-  url: companies
+- text: About
+  url: about
+- text: Services
+  url: services
 - text: Contact
   url: contact
