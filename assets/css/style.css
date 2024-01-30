@@ -2110,3 +2110,30 @@ blockquote {
 .company-quote.technology{
   border-left: 4px solid #f6b637;
 }
+
+.services-info p {
+  color: #000;
+  font-size:18px;
+}
+.services-info li {
+  color: #000;
+  font-size:18px;
+  list-style:disc;
+}
+.services-info-text h2 {
+	margin-bottom: 23px;
+	text-transform: capitalize;
+	font-weight: 700;
+	line-height: .9;
+}
+.about-info-text p {
+	padding: 0 100px;
+	font-size: 18px;
+	margin-bottom: 26px;
+}
+.about-content p {
+	margin-bottom: 0;
+}
+.about-info-text a {
+	margin-bottom: 20px;
+}
