@@ -898,6 +898,11 @@ h3 span {
 .call-to-action h3 {
 	font-weight: 700;
 }
+.call-to-action h1 {
+  color: #fff;
+	margin-bottom: 20px;
+  font-weight: 700;
+}
 .call-to-action p {
 	margin: 0;
 }
