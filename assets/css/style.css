@@ -2137,3 +2137,16 @@ blockquote {
 .about-info-text a {
 	margin-bottom: 20px;
 }
+
+.services-info.services-bg-image h2{
+  color:#fff;
+}
+.services-info.services-bg-image li{
+  color:#fff;
+}
+.servies-info.services-header-list h3{
+  font-weight: bold;
+}
+.services-li {
+  font-weight: bold;
+}
